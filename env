@@ -14,13 +14,12 @@
 # ENVIRONMENT
 #--------------------------------------------------------------------
 
-# CI_ENVIRONMENT = production
+CI_ENVIRONMENT = production
 
 #--------------------------------------------------------------------
 # APP
 #--------------------------------------------------------------------
-
-# app.baseURL = ''
+app.baseURL = 'gustabenna.azurewebsites.net'
 # If you have trouble with `.`, you could also use `_`.
 # app_baseURL = ''
 # app.forceGlobalSecureRequests = false
