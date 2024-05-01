@@ -69,7 +69,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'gusta-benna'
+          app-name: 'gustabenna'
           slot-name: 'Production'
           package: .
           
