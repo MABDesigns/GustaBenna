@@ -70,6 +70,6 @@ jobs:
         id: deploy-to-webapp
         with:
           app-name: 'gustabenna'
-          slot-name: 'Production'
+          slot-name: 'Production' 
           package: .
           
